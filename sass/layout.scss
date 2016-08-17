@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+}
+@import "compass/css3/transition";
+@import "compass/css3/user-interface";
+@import "libs/*";
+@import "pages/*";

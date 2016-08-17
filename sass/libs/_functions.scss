@@ -1,0 +1,7 @@
+@mixin hover(){
+  cursor: pointer;
+  @include transition(300ms);
+  &:hover{
+    opacity: 0.8;
+  }
+}
